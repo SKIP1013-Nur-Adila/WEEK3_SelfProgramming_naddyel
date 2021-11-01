@@ -10,20 +10,6 @@ public class Module_week4 {
 		
 		
 		/*
-		int dollars=20;
-		double money= dollars;
-		//assignment conversion
-		
-		//promotion
-		int count =12;
-		double sum = 490.27;
-		float result = (float) sum / count;
-		
-		System.out.println("apa: " + result);
-		
-		*/
-		
-		/*
 		String message;
 		String fries;
 		Scanner scan = new Scanner (System.in);
