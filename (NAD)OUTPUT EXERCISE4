@@ -1,0 +1,12 @@
+Enter a line of text:
+HELLO WORLD                                                   (USER INPUT)
+You entered: "HELLO WORLD"
+How many fries do you want
+7                                                             (USER INPUT)
+You entered: "7" 
+
+
+
+Enter the number of miles: 7                                  (USER INPUT)
+Enter the gallons of fuel used: 50.00                         (USER INPUT)
+Miles Per Gallon: 0.14
