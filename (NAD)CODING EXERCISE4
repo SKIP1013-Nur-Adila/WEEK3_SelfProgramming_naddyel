@@ -1,0 +1,56 @@
+package selfProgramming;
+//31.10.2021
+
+import java.util.Scanner; //user input
+
+public class Module_week4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		/*
+		int dollars=20;
+		double money= dollars;
+		//assignment conversion
+		
+		//promotion
+		int count =12;
+		double sum = 490.27;
+		float result = (float) sum / count;
+		
+		System.out.println("apa: " + result);
+		
+		*/
+		
+		/*
+		String message;
+		String fries;
+		Scanner scan = new Scanner (System.in);
+		System.out.println ("Enter a line of text:");
+		message = scan.nextLine();
+		System.out.println ("You entered: \"" + message + "\"");
+		//for two "" in one line use  \"string\" 
+		System.out.println("How many fries do you want");
+		fries= scan.nextLine();
+		System.out.println("You entered: \"" +fries + "\" ");
+		*/
+		
+		int miles;
+		double gallons,mpg;
+		
+		Scanner scan = new Scanner (System.in);
+		
+		System.out.print ("Enter the number of miles: ");
+		miles = scan.nextInt();
+		System.out.print ("Enter the gallons of fuel used: ");
+		gallons = scan.nextDouble();
+		mpg = miles / gallons;
+		System.out.println ("Miles Per Gallon: " + mpg);
+		} 
+	
+
+		
+		
+		
+	}
